@@ -1,6 +1,6 @@
 # Simple-Finder
 Simple finder
-# Simple Finder (SPF)
+# Simple Finder (SF)
 
 High-speed file recovery and trace detection tool written in C++. 
 Originally created to hunt down "Sameer Patel", but fully universal.
